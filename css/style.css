@@ -11,8 +11,8 @@ body {
 }
 .container {
     display: inline-block;
-   /* width: 1000px; */
-    height: 200px;
+    width: 1000px;
+   /* height: 200px; */
     margin-left: calc( (100% - 1000px) / 2 );
     margin-top: 80px;
     background-color: red;
