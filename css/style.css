@@ -8,6 +8,12 @@ body * {
 }
 body {
     background-color: aquamarine;
+    background-image: url(../img/bacground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    height: 100vh;
+    
 }
 .container {
     display: inline-block;
